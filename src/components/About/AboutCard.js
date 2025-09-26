@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Davin Taqqi Akbar</span>
-            from <span className="purple"> Depok, Jawa Barat.</span>
+            from<span className="purple">Depok, Jawa Barat.</span>
             <br />A graduate of SMK Tridaya Cibinong, majoring in Computer and Network Engineering, with a deep understanding of IT infrastructure, networking, and cybersecurity. He has a strong interest in managing and securing networks and computer systems to create a stable and reliable IT foundation.
             <br />
             <br />
