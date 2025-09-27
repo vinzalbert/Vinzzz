@@ -33,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Against a million impossibilities with one belief"{" "}
           </p>
-          <footer className="blockquote-footer">VinzEdtz </footer>
+          <footer className="blockquote-footer">VinzEdtz</footer>
         </blockquote>
       </Card.Body>
     </Card>
